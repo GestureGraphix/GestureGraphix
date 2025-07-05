@@ -1,38 +1,49 @@
-# 👋 Hi, I'm Alex Hernandez (GestureGraphix)
+# 👋 Hi, I'm Alex Hernandez Juarez
 
-🎓 First-gen CS & Math @ Yale  
-💡 Passionate about AI for accessibility, language tech, and systems programming  
-🤖 Ex-Lead @ FIRST Robotics · 📚 Open-source contributor
-
----
-
-## 🔧 Tech Stack  
-**Languages:** Python · C · Racket · JavaScript · HTML/CSS  
-**Tools:** Git · React · OpenCV · Docker · Flask  
-**Specialties:** Sign Language Translation · Turing Machines · Accessibility Tech
+🎓 CS & Math @ Yale (First-Gen, Class of 2028)  
+💡 Passionate about accessibility, AI, and inclusive technology  
+🤖 Building gesture-based interfaces and educational tools  
+📍 Salt Lake City · Fluent in English, Spanish, and Chinese  
 
 ---
 
-## 🧠 Featured Projects
+## 💼 About Me
+
+I'm a student developer focused on using technology to make communication more inclusive. Through my work at **GestureGraphix**, I’ve led projects in AI-powered sign language translation and human-computer interaction. I also contribute to student-driven tech at Yale through the Yale Computer Society.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** Python · Java · C · C++ · JavaScript · Racket  
+- **Core Areas:** Machine Learning · Algorithm Design · Accessibility Tech  
+- **Tools:** Git · React · OpenCV · Flask · Figma · Cloud Platforms
+
+---
+
+## 🚀 Featured Projects
 
 ### 🔤 [ASL Translator](https://github.com/GestureGraphix/asl-translator)  
-Real-time gesture-to-text interpreter for Mexican Sign Language (LSM)  
-→ Uses OpenCV, ML models, and a custom UI  
-→ Built for a Mexican online school for the Deaf
+Translates 500+ signs in Mexican Sign Language (LSM) using a keypoint-based ML pipeline  
+Built in partnership with AProSEL, a Mexican school for the deaf
 
-### 🧮 [Turing Machine Simulator](https://github.com/GestureGraphix/tm-reverse)  
-Visual Turing machine that reverses binary input  
-→ Implemented in Racket with testable state transitions  
-→ Used in coursework and tutorials
+### 🖌️ Movement-Based Sketcher  
+A creative simulator that turns vector hand movements into dynamic digital sketches  
+Explores gesture-to-visual interaction using real-time inputs
 
 ---
 
-## 📊 GitHub Stats  
-![GestureGraphix's GitHub Stats](https://github-readme-stats.vercel.app/api?username=GestureGraphix&show_icons=true&theme=tokyonight)
+## 🏆 Highlights
+
+- Sigma Xi Special Award – ISEF 1st Place, Physical Sciences  
+- National STEM Champion – Featured by National Inventors Hall of Fame  
+- USAID Science Champion – For work in global accessibility  
+- Letter of Recognition from President Barack Obama  
 
 ---
 
-## 📫 Let's Connect  
-- 🌐 [Portfolio Website](https://gesturegraphix.github.io) *(coming soon)*  
-- 💼 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)  
-- 📄 [Resume](https://yourdomain.com/resume.pdf)
+## 📫 Connect With Me
+
+- 📧 alex.hernandezjuarez@yale.edu  
+- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)  
+- 🌐 [Website](https://gesturegraphix.github.io) *(optional)*  
