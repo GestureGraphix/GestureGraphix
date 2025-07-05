@@ -35,15 +35,15 @@ Explores gesture-to-visual interaction using real-time inputs
 
 ## 🏆 Highlights
 
-- Sigma Xi Special Award – ISEF 1st Place, Physical Sciences  
-- National STEM Champion – Featured by National Inventors Hall of Fame  
-- USAID Science Champion – For work in global accessibility  
-- Letter of Recognition from President Barack Obama  
+- 🏅 Sigma Xi Special Award – ISEF 1st Place, Physical Sciences  
+- 🌍 National STEM Champion – Featured by National Inventors Hall of Fame  
+- 🇺🇸 USAID Science Champion – For work in global accessibility  
+- ✉️ Letter of Recognition from President Barack Obama  
 
 ---
 
 ## 📫 Connect With Me
 
 - 📧 alex.hernandezjuarez@yale.edu  
-- 🔗 [LinkedIn](https://linkedin.com/in/YOUR-LINK-HERE)  
-- 🌐 [Website](https://gesturegraphix.github.io) *(optional)*  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/alex-hernandez-juarez-a2231b239/)  
+- 🌐 [Website](https://gesturegraphix.github.io) *(coming soon)*  
