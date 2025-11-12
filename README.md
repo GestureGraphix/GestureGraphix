@@ -23,7 +23,7 @@ I'm a student developer focused on using technology to make communication more i
 
 ## Featured Projects
 
-### [ASL Translator](https://github.com/GestureGraphix/asl-translator)  
+### [ASL MATH](https://github.com/GestureGraphix/asl-math)  
 Translates 500+ signs in Mexican Sign Language (LSM) using a keypoint-based ML pipeline  
 Built in partnership with AProSEL, a Mexican school for the deaf
 
